@@ -31,8 +31,17 @@ header{
     background-color: green ;
 	float:left;
 }
+<<<<<<< Updated upstream
 
 footer {width: 100%;
     height: 100px;
     background-color: black ;
 }}
+=======
+footer{
+    width: 100%;
+    height: 50px;
+    background-color: yellow;
+    clear: left;
+}
+>>>>>>> Stashed changes
