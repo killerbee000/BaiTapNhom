@@ -16,9 +16,23 @@ header{
     width: 20%;
     height: 500px;
     background-color: blue;
+    float: left;
 }
 #main #center{
     width: 60%;
     height: 500px;
-    background-color: ;
+    background-color: white;
+    float: left;
+}
+#main #right{
+    width: 20%;
+    height: 500px;
+    background-color: yellow;
+    float: left;
+}
+footer{
+    width: 100%;
+    height: 50px;
+    background-color: violet;
+    clear: left;
 }
